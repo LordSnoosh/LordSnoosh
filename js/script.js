@@ -1,5 +1,5 @@
 // Creates the typewriter //
-const texts = ['Erwin Medina', '> Erwin.resume', '"', 'erwinmedina.pdf', '"', '> '];
+const texts = ['Dave Curry', '> Dave.resume', '"', 'davecurry.pdf', '"', '> '];
 
 let count = 0;
 let index = 0;

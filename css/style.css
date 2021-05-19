@@ -227,6 +227,11 @@ nav a:hover {
 
 .card-img-top {
     max-height: 162px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    
 }
 
 .flip-card {
