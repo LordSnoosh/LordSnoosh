@@ -4,7 +4,7 @@
 ## Description
 A quick readme for my portfolio. A standard website with contact info, project, and interests.
 
-![TopPart]()
+![TopPart](https://i.imgur.com/ETdvt0G.png)
 
 ## Tech Used
 - HTML
@@ -13,7 +13,7 @@ A quick readme for my portfolio. A standard website with contact info, project, 
 - jQuery
 
 ## Getting Started:
-- [Website Link]()
+- [Website Link](https://lordsnoosh.github.io/LordSnoosh/)
 
 Click the above link to get a quick glance at my portfolio.
 
